@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "44443300314",
+    "project_id": "flutt-av",
+    "storage_bucket": "flutt-av.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44443300314:android:5482b191b3d6c1aa7c10e3",
+        "android_client_info": {
+          "package_name": "com.example.todo_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44443300314-ovmf6ci6703fq3vu01n8p76jp08i134g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAB31mJpYzIhTfK_laoBdztAhcOmTjVHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44443300314-ovmf6ci6703fq3vu01n8p76jp08i134g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
